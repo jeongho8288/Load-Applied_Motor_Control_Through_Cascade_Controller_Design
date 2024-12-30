@@ -19,38 +19,41 @@ For example:
 ## Load inertia
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://github.com/user-attachments/assets/edf8146a-45c5-4cba-8799-0b88b8bb135a" alt="Description1" style="width: 40%; height: 250px; margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/e4f0d2ac-1bcc-4d2f-aac7-40b35eef1a09" alt="Description" alt="Description2" style="width: 40%; height: 250px;">
+  <img src="https://github.com/user-attachments/assets/e4f0d2ac-1bcc-4d2f-aac7-40b35eef1a09" alt="Description" alt="Description2" style="width: 20%; height: 100px;">
 </div>
 <hr style="border-top: 3px solid #bbb;">
 
 ## Cascade Controller
 
-(position-velocity-Torque controller)  
-<img src="https://github.com/user-attachments/assets/b2d852c2-50c5-4dba-921c-bd18e574f24f" alt="Description" alt="Description2" style="width: 60%; height: 200px;">  
-<img src="https://github.com/user-attachments/assets/964ec996-e0c6-4ffb-8f4a-34645335d0b7" alt="Description" alt="Description2" style="width: 60%; height: 250px;">  
-<img src="https://github.com/user-attachments/assets/3def47aa-6584-4a0e-928e-d2676d220163" alt="Description" alt="Description2" style="width: 60%; height: 250px;">  
-<img src="https://github.com/user-attachments/assets/7087ec5b-30f4-4bb1-9c2c-8f0f1bfb32c2" alt="Description" alt="Description2" style="width: 60%; height: 200px;">  
+- (position-velocity-Torque controller)    
+<img src="https://github.com/user-attachments/assets/b905271a-ae75-46ed-a70a-7e286d39e1bf" alt="Description" alt="Description2" style="width: 50%; height: 350px;">  
+- current controller (PI Control)  
+<img src="https://github.com/user-attachments/assets/a2ddba02-634a-4b72-bdf9-844ebdfdbfd0" alt="Description" alt="Description2" style="width: 50%; height: 400px;">  
+- velocity controller (PI Control)  
+<img src="https://github.com/user-attachments/assets/74367bee-66de-4c85-b4d7-b36f4a8a59a2" alt="Description" alt="Description2" style="width: 50%; height: 400px;">  
+- position controller (PD Control)  
+<img src="https://github.com/user-attachments/assets/28e2d020-805c-4d31-87fc-ce5408452f86" alt="Description" alt="Description2" style="width: 50%; height: 250px;">  
 <hr style="border-top: 3px solid #bbb;">
 
 ## Simulation Results
 
 ### UI Interface
-<img src="https://github.com/user-attachments/assets/4856096e-f343-4109-8c8d-a4ebfdc7b8a7" alt="Description" alt="Description2" style="width: 60%; height: 300px;">
+<img src="https://github.com/user-attachments/assets/4856096e-f343-4109-8c8d-a4ebfdc7b8a7" alt="Description" alt="Description2" style="width: 50%; height: 400px;">
 
 ### Forward Kinematics
 - join1=90, joint2=90 (Forward)          - join1=-150, joint2=90 (Forward)
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/7f04d3ae-e375-4fcc-8658-3fc1ebefe3f1" alt="Description1" style="width: 30%; height: 300px; margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/40308629-b068-4745-b54c-153a5258b18c" alt="Description" alt="Description2" style="width: 30%; height: 300px;">
+  <img src="https://github.com/user-attachments/assets/7f04d3ae-e375-4fcc-8658-3fc1ebefe3f1" alt="Description1" style="width: 20%; height: 400px; margin-right: 2%;">
+  <img src="https://github.com/user-attachments/assets/40308629-b068-4745-b54c-153a5258b18c" alt="Description" alt="Description2" style="width: 20%; height: 400px;">
 </div>
 
 ### Inverse Kinematics
 - x=1.0, y=-1.0 (Inverse)                - x=-1.0, y=0.8 (Inverse)
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/e3b4127f-e730-46c0-bbaa-aa522fa5b958" alt="Description1" style="width: 30%; height: 300px; margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/d2f1470f-51b6-4072-8c95-e3da94707ef0" alt="Description" alt="Description2" style="width: 30%; height: 300px;">
+  <img src="https://github.com/user-attachments/assets/e3b4127f-e730-46c0-bbaa-aa522fa5b958" alt="Description1" style="width: 20%; height: 400px; margin-right: 2%;">
+  <img src="https://github.com/user-attachments/assets/d2f1470f-51b6-4072-8c95-e3da94707ef0" alt="Description" alt="Description2" style="width: 20%; height: 400px;">
 </div>
 <hr style="border-top: 3px solid #bbb;">
 
