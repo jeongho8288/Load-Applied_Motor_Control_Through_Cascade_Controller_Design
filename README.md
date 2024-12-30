@@ -24,15 +24,23 @@ For example:
 <hr style="border-top: 3px solid #bbb;">
 
 ## Cascade Controller
+A current controller was designed, and based on its frequency response, a speed controller was subsequently designed.  
+Similarly, considering the frequency response of the speed controller, a position controller was designed.  
+  
+For the position controller, PD control was employed to ensure precision and stability.  
+Both the speed and current controllers utilized PI control, and to prevent error accumulation, values were compensated using anti-windup gain.  
+  
+Saturation limits were set for each controller to ensure the outputs did not exceed predefined thresholds.  
+  
 
 - (position-velocity-Torque controller)    
 <img src="https://github.com/user-attachments/assets/b905271a-ae75-46ed-a70a-7e286d39e1bf" alt="Description" alt="Description2" style="width: 50%; height: 250px;">
 
 - current controller (PI Control)  
-<img src="https://github.com/user-attachments/assets/a2ddba02-634a-4b72-bdf9-844ebdfdbfd0" alt="Description" alt="Description2" style="width: 50%; height: 400px;">
+<img src="https://github.com/user-attachments/assets/a2ddba02-634a-4b72-bdf9-844ebdfdbfd0" alt="Description" alt="Description2" style="width: 50%; height: 340px;">
 
 - velocity controller (PI Control)  
-<img src="https://github.com/user-attachments/assets/74367bee-66de-4c85-b4d7-b36f4a8a59a2" alt="Description" alt="Description2" style="width: 50%; height: 400px;">
+<img src="https://github.com/user-attachments/assets/74367bee-66de-4c85-b4d7-b36f4a8a59a2" alt="Description" alt="Description2" style="width: 50%; height: 340px;">
 
 - position controller (PD Control)  
 <img src="https://github.com/user-attachments/assets/28e2d020-805c-4d31-87fc-ce5408452f86" alt="Description" alt="Description2" style="width: 50%; height: 250px;">  
