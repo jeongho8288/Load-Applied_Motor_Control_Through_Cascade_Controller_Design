@@ -82,17 +82,19 @@ Saturation limits were set for each controller to ensure the outputs did not exc
 
 - Infinite Mode, +280 degree
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/cff134b8-51b5-427d-b83e-6b3553db7fe5" alt="Description1" style="width: 50%; height: 250px; margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/ccce71b2-3e86-4d05-8218-e67d206c3d54" alt="Description2" style="width: 30%; height: 250px;">
+  <img src="https://github.com/user-attachments/assets/cff134b8-51b5-427d-b83e-6b3553db7fe5" alt="Description1" style="width: 45%; height: 250px; margin-right: 2%;">
+  <img src="https://github.com/user-attachments/assets/ccce71b2-3e86-4d05-8218-e67d206c3d54" alt="Description2" style="width: 25%; height: 250px;">
 </div>  
-<br><br>
+<br>
+
 - Infinite Mode, -90 degree  
 Due to hardware discrepancies, the system cannot precisely point to -90 degrees.  
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/ac66b008-a3bf-4bbb-9ab1-02916b19f947" alt="Description1" style="width: 50%; height: 250px; margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/63c5d350-3e79-4e40-a964-076f0a8fc470" alt="Description2" style="width: 30%; height: 250px;">
+  <img src="https://github.com/user-attachments/assets/ac66b008-a3bf-4bbb-9ab1-02916b19f947" alt="Description1" style="width: 45%; height: 250px; margin-right: 2%;">
+  <img src="https://github.com/user-attachments/assets/63c5d350-3e79-4e40-a964-076f0a8fc470" alt="Description2" style="width: 25%; height: 250px;">
 </div>  
-<br><br>
+<br>
+
 - Joint Mode, +190 degree (it moves -170 degree)
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://github.com/user-attachments/assets/3a3262ef-8d10-4e57-bcce-2e9fe36ef741" alt="Description1" style="width: 35%; height: 250px; margin-right: 2%;">
