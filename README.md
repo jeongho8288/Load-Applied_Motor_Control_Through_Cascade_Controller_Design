@@ -59,7 +59,7 @@ Saturation limits were set for each controller to ensure the outputs did not exc
 ## Simulation Results
 
 ### UI Interface
-<img src="https://github.com/user-attachments/assets/4856096e-f343-4109-8c8d-a4ebfdc7b8a7" alt="Description" alt="Description2" style="width: 35%; height: 300px;">
+<img src="https://github.com/user-attachments/assets/d8d3bbbf-5393-422d-9adc-e709926b01cc" alt="Description" alt="Description2" style="width: 50%; height: 400px;">
 
 ### Forward Kinematics
 - join1=90, joint2=90 (Forward) & join1=-150, joint2=90 (Forward)
@@ -77,19 +77,6 @@ Saturation limits were set for each controller to ensure the outputs did not exc
   <img src="https://github.com/user-attachments/assets/d2f1470f-51b6-4072-8c95-e3da94707ef0" alt="Description" alt="Description2" style="width: 25%; height: 300px;">
 </div>
 <hr style="border-top: 3px solid #bbb;">
-
-
-## circuit diagram
-
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/4d8ab495-3d44-472a-8ca2-7db1289ccecf" alt="Description1" style="width: 45%; height: 250px; margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/73936e29-3da8-41cb-9e17-55d9124fc7e4" alt="Description2" style="width: 45%; height: 250px; margin-right: 2%;">
-</div>
-<img src="https://github.com/user-attachments/assets/f8a9f11e-201d-4eac-870c-fdd188be039d" alt="Description2" style="width: 45%; height: 250px;">
-<hr style="border-top: 3px solid #bbb;">
-
-## Cascade Controller
-(position-velocity-Torque controller)  
 
 ## Results
 
