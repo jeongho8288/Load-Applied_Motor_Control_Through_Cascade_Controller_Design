@@ -82,33 +82,31 @@ Saturation limits were set for each controller to ensure the outputs did not exc
 
 - Infinite Mode, +280 degree
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/cff134b8-51b5-427d-b83e-6b3553db7fe5" alt="Description1" style="width: 60%; height: 250px; margin-right: 2%;">
+  <img src="https://github.com/user-attachments/assets/cff134b8-51b5-427d-b83e-6b3553db7fe5" alt="Description1" style="width: 50%; height: 250px; margin-right: 2%;">
   <img src="https://github.com/user-attachments/assets/ccce71b2-3e86-4d05-8218-e67d206c3d54" alt="Description2" style="width: 30%; height: 250px;">
 </div>  
   
 - Infinite Mode, -90 degree  
 Due to hardware discrepancies, the system cannot precisely point to -90 degrees.  
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/ac66b008-a3bf-4bbb-9ab1-02916b19f947" alt="Description1" style="width: 60%; height: 250px; margin-right: 2%;">
+  <img src="https://github.com/user-attachments/assets/ac66b008-a3bf-4bbb-9ab1-02916b19f947" alt="Description1" style="width: 50%; height: 250px; margin-right: 2%;">
   <img src="https://github.com/user-attachments/assets/63c5d350-3e79-4e40-a964-076f0a8fc470" alt="Description2" style="width: 30%; height: 250px;">
 </div>  
   
 - Joint Mode, +190 degree (it moves -170 degree)
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/3a3262ef-8d10-4e57-bcce-2e9fe36ef741" alt="Description1" style="width: 45%; height: 250px; margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/a7c600c5-4caa-47a2-a05b-8702a5260adc" alt="Description2" style="width: 30%; height: 250px;">
+  <img src="https://github.com/user-attachments/assets/3a3262ef-8d10-4e57-bcce-2e9fe36ef741" alt="Description1" style="width: 35%; height: 250px; margin-right: 2%;">
+  <img src="https://github.com/user-attachments/assets/a7c600c5-4caa-47a2-a05b-8702a5260adc" alt="Description2" style="width: 20%; height: 250px;">
 </div>  
 <hr style="border-top: 3px solid #bbb;">
 
 
 
-## Problems Encountered During the Project
+## Gain Tuning
 
-The control cycle of the overall periodic control timer was set to 10ms for sampling. However, when receiving the values via UART0 communication and checking the log files, 
-there were slight discrepancies between the number of samples and the elapsed time. This was assumed to be due to the limitations of processing speed in the code and the communication speed.
-
-Additionally, issues such as missing or fluctuating sensor values were resolved by referring to the Atmega128 datasheet to adjust pin configurations and debugging through UART0 communication, making incremental modifications to the code.
-
+During the project, individual tuning was performed using MATLAB simulation to achieve effective control by considering the physical characteristics of the motor and the properties of the control system.  
+The values obtained from MATLAB were applied to the actual DC motor for control, and the control was successfully achieved.  
+Additionally, the PID gains can be further fine-tuned based on the desired characteristics.
 
 
 
