@@ -16,7 +16,7 @@ For example:
 - Infinite Mode: 400° → 400°  
   
 ### System Architecture
-<img src="https://github.com/user-attachments/assets/f71ccd54-e052-4c49-92e8-f7874f00a6e1" alt="Description2" style="width: 40%; height: 300px;">  
+<img src="https://github.com/user-attachments/assets/f71ccd54-e052-4c49-92e8-f7874f00a6e1" alt="Description2" style="width: 50%; height: 200px;">  
 
 ### Hardware Images
 <div style="display: flex; justify-content: space-around;">
