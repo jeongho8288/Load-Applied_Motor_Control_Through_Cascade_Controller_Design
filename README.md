@@ -59,7 +59,7 @@ Saturation limits were set for each controller to ensure the outputs did not exc
 ## Simulation Results
 
 ### UI Interface
-<img src="https://github.com/user-attachments/assets/d8d3bbbf-5393-422d-9adc-e709926b01cc" alt="Description" alt="Description2" style="width: 50%; height: 400px;">
+<img src="https://github.com/user-attachments/assets/d8d3bbbf-5393-422d-9adc-e709926b01cc" alt="Description" alt="Description2" style="width: 60%; height: 400px;">
 
 ### Forward Kinematics
 - join1=90, joint2=90 (Forward) & join1=-150, joint2=90 (Forward)
