@@ -97,7 +97,7 @@ Due to hardware discrepancies, the system cannot precisely point to -90 degrees.
 
 - Joint Mode, +190 degree (it moves -170 degree)
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/3a3262ef-8d10-4e57-bcce-2e9fe36ef741" alt="Description1" style="width: 35%; height: 250px; margin-right: 2%;">
+  <img src="https://github.com/user-attachments/assets/3a3262ef-8d10-4e57-bcce-2e9fe36ef741" alt="Description1" style="width: 30%; height: 250px; margin-right: 2%;">
   <img src="https://github.com/user-attachments/assets/a7c600c5-4caa-47a2-a05b-8702a5260adc" alt="Description2" style="width: 20%; height: 250px;">
 </div>  
 <hr style="border-top: 3px solid #bbb;">
