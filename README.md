@@ -47,16 +47,16 @@ For example:
 - join1=90, joint2=90 (Forward) & join1=-150, joint2=90 (Forward)
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/7f04d3ae-e375-4fcc-8658-3fc1ebefe3f1" alt="Description1" style="width: 30%; height: 400px; margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/40308629-b068-4745-b54c-153a5258b18c" alt="Description" alt="Description2" style="width: 30%; height: 400px;">
+  <img src="https://github.com/user-attachments/assets/7f04d3ae-e375-4fcc-8658-3fc1ebefe3f1" alt="Description1" style="width: 25%; height: 300px; margin-right: 2%;">
+  <img src="https://github.com/user-attachments/assets/40308629-b068-4745-b54c-153a5258b18c" alt="Description" alt="Description2" style="width: 25%; height: 300px;">
 </div>
 
 ### Inverse Kinematics
 - x=1.0, y=-1.0 (Inverse)        & x=-1.0, y=0.8 (Inverse)
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/e3b4127f-e730-46c0-bbaa-aa522fa5b958" alt="Description1" style="width: 30%; height: 400px; margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/d2f1470f-51b6-4072-8c95-e3da94707ef0" alt="Description" alt="Description2" style="width: 30%; height: 400px;">
+  <img src="https://github.com/user-attachments/assets/e3b4127f-e730-46c0-bbaa-aa522fa5b958" alt="Description1" style="width: 25%; height: 300px; margin-right: 2%;">
+  <img src="https://github.com/user-attachments/assets/d2f1470f-51b6-4072-8c95-e3da94707ef0" alt="Description" alt="Description2" style="width: 25%; height: 300px;">
 </div>
 <hr style="border-top: 3px solid #bbb;">
 
