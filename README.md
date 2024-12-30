@@ -13,8 +13,11 @@ At this time, the angle can be entered in two modes: Joint Mode and Infinite Mod
 
 For example:
 - Joint Mode: 320° → -40°
-- Infinite Mode: 400° → 400°
+- Infinite Mode: 400° → 400°  
   
+### System Architecture
+<img src="https://github.com/user-attachments/assets/f71ccd54-e052-4c49-92e8-f7874f00a6e1" alt="Description2" style="width: 40%; height: 300px;">  
+
 ### Hardware Images
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/9d6a52ba-993f-44bc-ac42-0f91d5d575c0" alt="Description1" style="width: 23%; height: 300px; margin-right: 2%;">
